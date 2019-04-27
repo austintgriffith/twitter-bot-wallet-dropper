@@ -25,3 +25,13 @@ Read more about my paper wallets and how I do this in person: [https://github.co
 
 
 THANKS!!!
+
+
+## Development
+
+Install dependencies and setup bin file in local folder:
+
+```
+    $ npm i
+    $ npm link
+```
