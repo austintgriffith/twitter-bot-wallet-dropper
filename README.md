@@ -13,6 +13,10 @@ Concerned with sybil resistance. If we host a game and have 500 wallets going ou
 
 Maybe you have to be followed by me or have a certain number of followers?
 
+
+Join us on telegram to discuss: [https://t.me/joinchat/KByvmRXE_JOx4z1A3b6eOw](https://t.me/joinchat/KByvmRXE_JOx4z1A3b6eOw)
+
+
 Read more about one possible game we will run with this: [https://medium.com/gitcoin/emojicoin-exchange-53f9658c9e3b](https://medium.com/gitcoin/emojicoin-exchange-53f9658c9e3b)
 
 Read more about my previous efforts at ETHDenver: [https://twitter.com/austingriffith/status/1098995894421082112](https://twitter.com/austingriffith/status/1098995894421082112)
