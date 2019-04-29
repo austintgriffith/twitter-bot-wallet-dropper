@@ -4,5 +4,8 @@
   "repository": "https://github.com/austintgriffith/twitter-bot-wallet-dropper",
   "author": "Austin Griffith <austin@concurrence.io>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
