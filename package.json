@@ -3,9 +3,6 @@
   "version": "0.1.0",
   "repository": "https://github.com/austintgriffith/twitter-bot-wallet-dropper",
   "author": "Austin Griffith <austin@concurrence.io>",
-  "bin": {
-    "wdb": "bin/wdb"
-  },
   "license": "MIT",
   "private": false
 }
