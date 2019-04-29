@@ -29,9 +29,8 @@ THANKS!!!
 
 ## Development
 
-Install dependencies and setup bin file in local folder:
+Install dependencies via `npm`:
 
 ```
     $ npm i
-    $ npm link
 ```

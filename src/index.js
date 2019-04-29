@@ -1,3 +1,1 @@
-module.exports = () => {
-  console.log('Twitter Bot Wallet Dropper');
-}
+console.log('Twitter Bot Wallet Dropper');
